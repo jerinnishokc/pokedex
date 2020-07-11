@@ -13,7 +13,7 @@ const Navbar = () => {
             </Link>
             <div className="navs">
                 <div className="nav-link">
-                    <Link to="/pokedex">Pokedex</Link>
+                    <Link to="/pokedexs">Pokedex</Link>
                 </div>
                 <div className="nav-link">
                     <Link to="/pokegame">Pokegame</Link>

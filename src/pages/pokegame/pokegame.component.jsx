@@ -63,7 +63,7 @@ class Pokegame extends React.Component {
 
         return (
             <div className="pokegame-container">
-                <h1>Pokegame</h1>
+                <h1>POKEGAME</h1>
                 <div className="team1">
                     <h2 className="title">Team1</h2>
                     <div className="score-board" >

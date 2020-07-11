@@ -1,0 +1,7 @@
+.collection-overview-container {
+    display:grid;
+    margin: 0 auto;
+    width: 85vw;
+    grid-template-columns: 1fr 1fr 1fr 1fr;
+    grid-gap: 20px;
+}

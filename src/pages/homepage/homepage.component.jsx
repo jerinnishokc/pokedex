@@ -5,7 +5,7 @@ import Typed from 'react-typed';
 const HomePage = () => { 
     return (
         <div>
-            <h1 className="title">HomePage</h1>
+            <h1 className="title">HOMEPAGE - POKEMONS</h1>
             <Typed
                     strings={['Here you can find anything']}
                     typeSpeed={40}

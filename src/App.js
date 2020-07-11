@@ -14,7 +14,7 @@ function App() {
       </div>
       <Switch>
         <Route exact path="/" component={HomePage}></Route>
-        <Route path="/pokedex" component={Pokedex}></Route>
+        <Route path="/pokedexs" component={Pokedex}></Route>
         <Route path="/pokegame" component={Pokegame}></Route>
       </Switch>
     </div>

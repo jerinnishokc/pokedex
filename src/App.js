@@ -6,6 +6,7 @@ import {Switch, Route} from 'react-router-dom';
 import Pokedex from './pages/pokedex/pokedex.component';
 import Pokegame from './pages/pokegame/pokegame.component';
 
+//Check comment
 function App() {
   return (
     <div className="main-app">
